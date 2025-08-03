@@ -13,3 +13,5 @@ Results and Impact:
 •	Developed Interdisciplinary Skills: The internship report highlights a strong ability to integrate mechanical and chemical engineering principles, from understanding shaft power and impeller torque to performing thermofluid analysis for mixing systems.
 •	Strengthened Computational and Analytical Skills: I gained hands-on experience with industry-relevant computational tools for reactor sizing, simulation, and cost estimation, solidifying the data-driven decision-making skills essential for a career in process engineering.
 
+[Seprex Intern Report-Aman Surana.pdf](https://github.com/user-attachments/files/21565680/Seprex.Intern.Report-Aman.Surana.pdf)
+
